@@ -13,6 +13,8 @@
 		612458402883B6DD006A278F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6124583E2883B6DD006A278F /* Main.storyboard */; };
 		612458422883B6E0006A278F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 612458412883B6E0006A278F /* Assets.xcassets */; };
 		612458452883B6E0006A278F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 612458432883B6E0006A278F /* LaunchScreen.storyboard */; };
+		6124584D2883B899006A278F /* palavras.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6124584C2883B899006A278F /* palavras.txt */; };
+		6124584F2883BECD006A278F /* Palavra.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6124584E2883BECD006A278F /* Palavra.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		612458412883B6E0006A278F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		612458442883B6E0006A278F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		612458462883B6E0006A278F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6124584C2883B899006A278F /* palavras.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = palavras.txt; sourceTree = "<group>"; };
+		6124584E2883BECD006A278F /* Palavra.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palavra.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +64,11 @@
 				6124583A2883B6DD006A278F /* SceneDelegate.swift */,
 				6124583C2883B6DD006A278F /* ViewController.swift */,
 				6124583E2883B6DD006A278F /* Main.storyboard */,
+				6124584E2883BECD006A278F /* Palavra.swift */,
 				612458412883B6E0006A278F /* Assets.xcassets */,
 				612458432883B6E0006A278F /* LaunchScreen.storyboard */,
 				612458462883B6E0006A278F /* Info.plist */,
+				6124584C2883B899006A278F /* palavras.txt */,
 			);
 			path = DesafioPontosChave;
 			sourceTree = "<group>";
@@ -125,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6124584D2883B899006A278F /* palavras.txt in Resources */,
 				612458452883B6E0006A278F /* LaunchScreen.storyboard in Resources */,
 				612458422883B6E0006A278F /* Assets.xcassets in Resources */,
 				612458402883B6DD006A278F /* Main.storyboard in Resources */,
@@ -141,6 +148,7 @@
 				6124583D2883B6DD006A278F /* ViewController.swift in Sources */,
 				612458392883B6DD006A278F /* AppDelegate.swift in Sources */,
 				6124583B2883B6DD006A278F /* SceneDelegate.swift in Sources */,
+				6124584F2883BECD006A278F /* Palavra.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
