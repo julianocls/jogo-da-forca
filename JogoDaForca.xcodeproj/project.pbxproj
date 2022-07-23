@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		612458352883B6DD006A278F /* DesafioPontosChave.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesafioPontosChave.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		612458352883B6DD006A278F /* JogoDaForca.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JogoDaForca.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		612458382883B6DD006A278F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6124583A2883B6DD006A278F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		6124583C2883B6DD006A278F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		612458362883B6DD006A278F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				612458352883B6DD006A278F /* DesafioPontosChave.app */,
+				612458352883B6DD006A278F /* JogoDaForca.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		612458342883B6DD006A278F /* DesafioPontosChave */ = {
+		612458342883B6DD006A278F /* JogoDaForca */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 612458492883B6E0006A278F /* Build configuration list for PBXNativeTarget "DesafioPontosChave" */;
+			buildConfigurationList = 612458492883B6E0006A278F /* Build configuration list for PBXNativeTarget "JogoDaForca" */;
 			buildPhases = (
 				612458312883B6DD006A278F /* Sources */,
 				612458322883B6DD006A278F /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = DesafioPontosChave;
+			name = JogoDaForca;
 			productName = DesafioPontosChave;
-			productReference = 612458352883B6DD006A278F /* DesafioPontosChave.app */;
+			productReference = 612458352883B6DD006A278F /* JogoDaForca.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 612458302883B6DD006A278F /* Build configuration list for PBXProject "DesafioPontosChave" */;
+			buildConfigurationList = 612458302883B6DD006A278F /* Build configuration list for PBXProject "JogoDaForca" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				612458342883B6DD006A278F /* DesafioPontosChave */,
+				612458342883B6DD006A278F /* JogoDaForca */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		612458302883B6DD006A278F /* Build configuration list for PBXProject "DesafioPontosChave" */ = {
+		612458302883B6DD006A278F /* Build configuration list for PBXProject "JogoDaForca" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				612458472883B6E0006A278F /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		612458492883B6E0006A278F /* Build configuration list for PBXNativeTarget "DesafioPontosChave" */ = {
+		612458492883B6E0006A278F /* Build configuration list for PBXNativeTarget "JogoDaForca" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6124584A2883B6E0006A278F /* Debug */,

@@ -10,10 +10,9 @@ Mar | Grande e salgado
 Praia | Tem muita areia
 Chuva | Deixa a terra molhada
 Jardim | Tem muitas flores
-Pomar | Tem frutas
-Noite | Fica tudo escuro
-Dia | Fica tudo claro
+Pomar | Lugar de frutas
 Sono | Deixa os olhos pesados
 Jejum | Mortifica a carne
-Oração | Nos aproxima de Deus
+Oração | Usamos para falar com Deus
 Igreja | Onde nos reunimos para louvar
+Sergipe | Um estado que gostaria de ser carro
