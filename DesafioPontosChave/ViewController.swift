@@ -85,7 +85,7 @@ class ViewController: UIViewController {
             
             palavraLabel.text = palavraCifrada
             dicaLabel.text = palavra.getDica()
-            tentativas = 7
+            tentativas = Int(Double(palavraAtual.count) * 0.60)
             tentativaLabel.text = "N. Tentativa: \(tentativas)"
         } else {
             let ac = UIAlertController(title: "Fim de Jogo!", message: nil, preferredStyle: .alert)
@@ -144,8 +144,9 @@ class ViewController: UIViewController {
             self.palavraLabel.text = palavraAtual
             score += 1
             self.loadStartGame()
+        } else {
+            verificaTentativas()
         }
-        verificaTentativas()
     }
     
     func verificaTentativas() {
